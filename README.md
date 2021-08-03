@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @christianlMaldonado
-- 👀 I’m interested in creating helpful projects
-- 🌱 I’m currently learning Network Engineering
-- 💞️ I’m looking to collaborate on Twilio and React projects
-- 📫 How to reach me ... 
+- 👀 I’m Interested In Creating Helpful Projects
+- 🌱 I’m Currently Learning Network Engineering
+- 💞️ I’m Looking To Collaborate On Twilio And React Projects 
 
 <!---
 christianlMaldonado/christianlMaldonado is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
