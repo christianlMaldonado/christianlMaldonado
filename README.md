@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @christianlMaldonado
-- I’m Interested In Creating Helpful Projects
 - I’m Currently developing my business applicaitons
 - Follow me for my adventure through Github
 
